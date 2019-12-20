@@ -1,0 +1,10 @@
+version: '3'
+services:
+  nginx: 
+    image: node:alpine
+    command: node index.js
+    working_dir: /app
+    ports:
+      - '3000:3000'
+    volumes: 
+      - ./:/app
