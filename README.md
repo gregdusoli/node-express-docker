@@ -1,6 +1,6 @@
-# Node + Express bootstrap app
+# Node + Express + Docker bootstrap application
 
-Simple Node.js + Express get started application
+Simple Node.js + Express + Docker get started application
 
 ### Usage instructions
 
@@ -8,5 +8,4 @@ Just create a .env file based on .env.example provided and tap the command:
 ```sh
 $ docker-compose up -d
 ```
-
-
+<sub><sup>**Obs:** is supposed that Docker has already running on the host</sup></sub>
