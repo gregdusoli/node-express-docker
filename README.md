@@ -8,4 +8,4 @@ Just create a .env file based on .env.example provided and tap the command:
 ```sh
 $ docker-compose up -d
 ```
-<sub><sup>**Obs:** is supposed that Docker has already running on the host</sup></sub>
+<sub>**Obs:** is supposed that Docker has already running on the host</sub>
